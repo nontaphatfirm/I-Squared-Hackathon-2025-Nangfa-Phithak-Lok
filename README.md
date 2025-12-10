@@ -87,6 +87,8 @@ We conducted experiments using different YOLO versions and training strategies. 
 | YOLO v8x | 100 | `cls=2.0` loss weight + TTA | 0.70810 | |
 | YOLO v11n | 60 | Base Training | 0.67055 | |
 
+You can download best model on huggingface.
+
 ---
 
 ## 🚀 Installation & Usage
