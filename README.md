@@ -2,14 +2,23 @@
 
 **Team Name:** Nangfa Phithak Lok (นางฟ้าพิทักษ์โลก)
 
-[![Rank](https://img.shields.io/badge/Rank-5th_Place-FFD700?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/competitions/i-squared-liver-ultrasound-detection/leaderboard)
-[![Competition](https://img.shields.io/badge/Competition-I--Squared%202025-blue?style=for-the-badge)](https://www.kaggle.com/competitions/i-squared-liver-ultrasound-detection)
+[![Rank](https://img.shields.io/badge/Rank-5th_Place-FFD700?style=for-the-badge&logo=kaggle)](https://github.com/nontaphatfirm/I-Squared-Hackathon-2025-Nangfa-Phithak-Lok/blob/main/assets/leaderboard.png)
+[![Competition](https://img.shields.io/badge/Competition-I--Squared%202025-blue?style=for-the-badge)](https://linktr.ee/isquared.hackathon?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGndjzq0oEvTTZcUC1n938l7GIIUYdRI_tczyqctj_pOvqsv-e-4YfOCpVqzEI_aem_wfdjRIl_dnlxIA2QDbHQFw)
 [![Deployment](https://img.shields.io/badge/Demo-Hugging_Face-FF9D00?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/oakee/idk)
 [![Slides](https://img.shields.io/badge/Presentation-Canva-00C4CC?style=for-the-badge&logo=canva)](https://www.canva.com/design/DAG2Jz3ni7A/mXSL_0ttAS1KPMU_TeDBRA/edit)
 
 > **5th Place Solution** for the I-Squared Medical Image Processing Hackathon 2025.  
 > **Topic:** Liver Ultrasound Tumor Detection, Localization, and Classification.
 
+---
+
+## 🏅 Achievement
+
+**Official Leaderboard Ranking: 5th Place**
+
+*(Note: The competition page is private. Below is the snapshot of the final standings)*
+
+![Leaderboard Ranking](./assets/leaderboard.png)
 ---
 
 ## 📝 Abstract
@@ -30,6 +39,8 @@ The primary objective is to develop an accurate **multi-class liver disease dete
 ---
 
 ## 📊 Dataset Labels
+
+**Note:** The dataset used in this competition is private and proprietary. **It cannot be shared, distributed, or uploaded publicly** according to the competition rules.
 
 The dataset consists of ultrasound images categorized into 7 classes:
 
