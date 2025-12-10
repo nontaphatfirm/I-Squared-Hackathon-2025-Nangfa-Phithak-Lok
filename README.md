@@ -117,4 +117,8 @@ We would like to thank the organizers and sponsors for making this competition p
 * **GULF**
 * **Bright Hair Studio**
  
-![SponsersSponsored by](./assets/sponsers1.png) ![SponsersSponsored by](./assets/sponsers2.png) ![SponsersSponsored by](./assets/sponsers3.png)
+<div align="center">
+  <img src="./assets/sponsers1.png" width="30%" />
+  <img src="./assets/sponsers2.png" width="30%" />
+  <img src="./assets/sponsers3.png" width="30%" />
+</div>
