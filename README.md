@@ -116,3 +116,5 @@ We would like to thank the organizers and sponsors for making this competition p
 * **Google**
 * **GULF**
 * **Bright Hair Studio**
+
+![SponsersSponsored by](./assets/sponsers.png)
