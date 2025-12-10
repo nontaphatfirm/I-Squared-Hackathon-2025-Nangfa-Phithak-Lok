@@ -84,8 +84,8 @@ We conducted experiments using different YOLO versions and training strategies. 
 | Model | Epochs | Configuration / Strategy | mAP50 Score | Note |
 | :--- | :---: | :--- | :---: | :--- |
 | **YOLO v11x** | **100** | **+ Test-Time Augmentation (TTA)** | **0.71054** | **Best Performance** |
-| YOLO v11n | 60 | Base Training | 0.67055 | |
 | YOLO v8x | 100 | `cls=2.0` loss weight + TTA | 0.70810 | |
+| YOLO v11n | 60 | Base Training | 0.67055 | |
 
 ---
 
@@ -101,11 +101,11 @@ We conducted experiments using different YOLO versions and training strategies. 
 
 We are a team of developers and researchers participating in the I-Squared Hackathon.
 
-* **Nontapat Auetongjit**
-* **Member 2**
-* **Vatanya Upalagama**
-* **Vatanya Upalagama**
-* **Vatanya Upalagama**
+* [**Nontapat Auetongjit**](https://github.com/nontaphatfirm) - Computer Engineering Chulalongkorn University (CEDT)
+* [**Putthakhun Boonchai**](https://github.com/Kaotu999) - Doctor of Medicine Siriraj Hospital
+* **Vatanya Upalagama** - Computer Engineering Chulalongkorn University (ICE)
+* **Purichaya Chowiwattana** - Computer Engineering Chulalongkorn University (CP)
+* **Nannapas Jaroensri** - Computer Engineering Chulalongkorn University (CP)
 
 ---
 
