@@ -2,7 +2,7 @@
 
 **Team Name:** Nangfa Phithak Lok (นางฟ้าพิทักษ์โลก)
 
-[![Rank](https://img.shields.io/badge/Rank-5th_Place-FFD700?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/competitions/i-squared-liver-ultrasound-detection)
+[![Rank](https://img.shields.io/badge/Rank-5th_Place-FFD700?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/competitions/i-squared-liver-ultrasound-detection/leaderboard)
 [![Competition](https://img.shields.io/badge/Competition-I--Squared%202025-blue?style=for-the-badge)](https://www.kaggle.com/competitions/i-squared-liver-ultrasound-detection)
 [![Deployment](https://img.shields.io/badge/Demo-Hugging_Face-FF9D00?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/oakee/idk)
 [![Slides](https://img.shields.io/badge/Presentation-Canva-00C4CC?style=for-the-badge&logo=canva)](https://www.canva.com/design/DAG2Jz3ni7A/mXSL_0ttAS1KPMU_TeDBRA/edit)
